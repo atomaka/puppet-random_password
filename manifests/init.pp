@@ -1,0 +1,1 @@
+class random_password {}
